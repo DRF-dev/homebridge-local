@@ -15,5 +15,6 @@
     }
   ]
 }
- * Pour exécuter: npx homebridge 
+ * Pour exécuter: npx homebridge
  */
+
